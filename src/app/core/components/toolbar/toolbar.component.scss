@@ -1,0 +1,14 @@
+:host {
+	mat-toolbar {
+		z-index: 2;
+	}
+
+	.navbar-brand {
+		text-decoration: none;
+		color: white;
+
+		p {
+			margin-bottom: 0;
+		}
+	}
+}
